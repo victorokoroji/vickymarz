@@ -1,5 +1,5 @@
 <h2> Hi, I'm Okoroji Victor! 👋 👩🏾‍💻 <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 <p><em>A Passionate Frontend web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
   
 A little more about me...
@@ -7,7 +7,7 @@ A little more about me...
 ```javascript
 const okorojiVictor = {
   openTowork: true,
-  lookingFor: "Front-end developer" || "UI/UX designer",
+  lookingFor: "Front-End developer" || "UI/UX designer",
   pronouns: ["he", "his"],
   languagesAndTools: [JavaScript, React, Redux, HTML/CSS, Semantic UI, Bootstrap,
   Tailwind CSS],
