@@ -1,5 +1,5 @@
 <h2> Hi, I'm Okoroji Victor! 👋 👩🏾‍💻 <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<p><em>A Passionate Frontend web developer who enjoys coding and ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>A Frontend developer who enjoys coding and ready for adventure. My passion lies in helping companies serve customers and improve customer experience through Software Applications.</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
   
 A little more about me...
 
