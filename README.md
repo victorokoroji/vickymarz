@@ -22,7 +22,8 @@ const okorojiVictor = {
 | <a href="https://github.com/vickymarz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vickymarz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Victor's github stats" /></a> | <a href="https://github.com/vickymarz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickymarz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vickymarz&theme=radical" alt="vickymarz" /></p>
+  
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
 - [How to make pull request.Guide for beginners](https://vickymarz.hashnode.dev/how-to-make-pull-request-guide-for-beginners)
