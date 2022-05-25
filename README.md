@@ -8,7 +8,7 @@ const okorojiVictor = {
   openTowork: true,
   lookingFor: "Front-End developer" || "UI/UX designer",
   pronouns: ["he", "his"],
-  languagesAndTools: [JavaScript, React, Redux, HTML/CSS, Semantic UI, Bootstrap,
+  languagesAndTools: [Ruby, PostgreSQL, Typescript, JavaScript, React, Redux, HTML/CSS, Semantic UI, Bootstrap,
   Tailwind CSS],
   askMeAbout: [Football, Movies],
   challenge: "I am currently working on javascript and i am learning Ruby on Rails",
