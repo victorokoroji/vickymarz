@@ -1,5 +1,5 @@
 <h2> Hi, I'm Victor Okoroji! 👋 👩🏾‍💻 <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<p><em>A Full-stack developer who enjoys coding and is ready for adventure. My passion lies in helping companies serve customers and improve customer experience by building user-friendly and responsive Software Applications.
+<p><em>A Full-stack web developer who enjoys coding and is ready for adventure. My passion lies in helping companies serve customers and improve customer experience by building user-friendly and responsive Software Applications.
   
 A little more about me...
 
